@@ -1,4 +1,4 @@
-# Go Programming - From Beginner to Professional Second Edition
+# [Book] Go Programming From Beginners to Professional - Second Edition, by Packt Publishing [ENG, 2024]
 
 <a href="https://www.packtpub.com/product/go-programming-from-beginner-to-professional-second-edition/9781803243054"> <img src="https://content.packt.com/B18621/cover_image_small.jpg" alt="Go Programming - From Beginner to Professional - Second Edition" itemprop="url" height="256px" align="right">
 
